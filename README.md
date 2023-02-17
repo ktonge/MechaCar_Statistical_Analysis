@@ -42,5 +42,19 @@ Our manufacturing issues initially identified in our summary statistics for Lot 
 ![deliverable3c](/photos/part3deliverablelot3.png)
 It was the only lot with a p-value below our significance level (p-value:0.04168)
 
-## Comparing the MechaCar to the Competition
+## Study Design: Comparing the MechaCar to the Competition
+Our final task was to design a study for MechaCar to perform that would compare them to their competition, specifically covering data that would be interesting to the consumer. 
+
+### Overview 
+As a consumer who has had a car for many years, personally the most interesting metric to me would be maintenence cost.  We could evaluate this by looking at post-consumer market data surround how much customers spend on repairs for MechaCars compared to their major competors.  
+
+### Hypothesises 
+#### Null Hypothesis
+There is no significant difference between the aftermarket maintence cost for customers of MechaCar and their competitors.  
+#### Alternate Hypothesis 
+MechaCar customers spend less in aftermarket maintence costs than customers of their competitors.  
+
+### Testing 
+I would use a two sample t-test to compare the data collected from the two samples about maintence costs spent after purchase of the vehicles for the two different consumer groups.  
+
 
